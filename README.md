@@ -1,3 +1,4 @@
 # Demo
 My first git repository
-Author - Prateek
+<br>
+<h1>Author - Prateek</h1>
