@@ -1,4 +1,4 @@
 # Demo
 My first git repository
 <br>
-<h1>Author - Prateek</h1>
+<h1>Author - Prateek(God)</h1>
